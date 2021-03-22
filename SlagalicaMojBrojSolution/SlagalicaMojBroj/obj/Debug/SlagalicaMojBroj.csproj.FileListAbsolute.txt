@@ -1,0 +1,10 @@
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\bin\Debug\SlagalicaMojBroj.exe.config
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\bin\Debug\SlagalicaMojBroj.exe
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\bin\Debug\SlagalicaMojBroj.pdb
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.csprojAssemblyReference.cache
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.Form1.resources
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.Properties.Resources.resources
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.csproj.GenerateResource.cache
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.csproj.CoreCompileInputs.cache
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.exe
+C:\Users\nov lud\Desktop\SlagalicaMojBrojSolution\SlagalicaMojBroj\obj\Debug\SlagalicaMojBroj.pdb
